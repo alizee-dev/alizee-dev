@@ -1,12 +1,12 @@
-# Hi, I'm Alizée 👋
+# Hi, I'm Alizée
 
 Backend-oriented software developer in Brussels.
 I love the part of software where business rules live: understanding them, modelling them, and making them reliable.
 
 ## 🛠️ Tech
-**Backend:** Java · Spring Boot *(in progress)* · Node.js · Express · REST APIs
-**Databases:** PostgreSQL · MongoDB · SQL
-**Tools:** JUnit (TDD) · Git · Docker · IntelliJ · Scrum
+- **Backend:** Java · Spring Boot *(in progress)* · Node.js · Express · REST APIs
+- **Databases:** PostgreSQL · MongoDB · SQL
+- **Tools:** JUnit (TDD) · Git · Docker · IntelliJ · Scrum
 
 ## ✨ Featured projects
 - **[MOTS-IMAGES](https://github.com/alizee-dev/00.-Mots-images)**: illustrated spelling app for children with learning difficulties.
